@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801560672710",
+    "project_id": "taskytodoapp",
+    "storage_bucket": "taskytodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801560672710:android:e029659e08725765f09ac7",
+        "android_client_info": {
+          "package_name": "com.example.onlinetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801560672710-vc0snopq3nnc7tcc130a2gha0bhd8nrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinetodoapp",
+            "certificate_hash": "0162499396d0328ce6a768abb9a0369f2e8c80a7"
+          }
+        },
+        {
+          "client_id": "801560672710-a3abg8kirtpn4ag77begsvdpv10sar18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJomViSHz33oMX48zgLK_R14-HDC1nNbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801560672710-a3abg8kirtpn4ag77begsvdpv10sar18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
